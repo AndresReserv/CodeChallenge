@@ -1,0 +1,12 @@
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\bin\Debug\netcoreapp2.1\Paysheet.Interfaces.deps.json
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\bin\Debug\netcoreapp2.1\Paysheet.Interfaces.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\bin\Debug\netcoreapp2.1\Paysheet.Interfaces.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\bin\Debug\netcoreapp2.1\Paysheet.Entities.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\bin\Debug\netcoreapp2.1\Paysheet.Entities.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.csprojAssemblyReference.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.csproj.CoreCompileInputs.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.AssemblyInfoInputs.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.AssemblyInfo.cs
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.csproj.CopyComplete
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Interfaces\obj\Debug\netcoreapp2.1\Paysheet.Interfaces.pdb

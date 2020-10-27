@@ -1,0 +1,43 @@
+﻿@using Paysheet.Entities
+@model IEnumerable<EmployeeSalary>
+@{
+    ViewData["Title"] = "Employee";
+}
+
+<h2>Employee</h2>
+
+<div class="container row center-block">
+    <form id="employeeForm">
+        <div class="form-group">
+            <label for="Employee">Employee</label>
+            <input type="number" class="form-control" id="Employee" placeholder="Enter id employee">
+        </div>
+        <button id="btnSearch" class="btn btn-primary col-md-12 btn-block">
+            Search
+        </button>
+    </form>
+</div>
+<br /><br />
+<div class="container row center-block">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Contract Type</th>
+                <th scope="col">Role</th>
+                <th scope="col">Hourly Salary</th>
+                <th scope="col">Monthly Salary</th>
+                <th scope="col">Annual Salary</th>
+            </tr>
+        </thead>
+        <tbody id="ContenidoTabla"></tbody>
+    </table>
+</div>
+@section Scripts
+{
+    <script>
+        var url="@Url.Action("JsonListar", "Employee")";
+    </script> 
+    <script src="~/js/Employee.js"></script>
+}

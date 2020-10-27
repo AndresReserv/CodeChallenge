@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Paysheet.Interfaces/1.0.0": {
+        "dependencies": {
+          "Paysheet.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Paysheet.Interfaces.dll": {}
+        }
+      },
+      "Paysheet.Entities/1.0.0": {
+        "runtime": {
+          "Paysheet.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paysheet.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Paysheet.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

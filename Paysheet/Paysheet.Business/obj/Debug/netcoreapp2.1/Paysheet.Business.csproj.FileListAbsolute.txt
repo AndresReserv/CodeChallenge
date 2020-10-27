@@ -1,0 +1,16 @@
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Business.deps.json
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Business.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Business.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Data.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Entities.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Interfaces.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Data.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Entities.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\bin\Debug\netcoreapp2.1\Paysheet.Interfaces.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.csprojAssemblyReference.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.csproj.CoreCompileInputs.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.AssemblyInfoInputs.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.AssemblyInfo.cs
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.csproj.CopyComplete
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Business\obj\Debug\netcoreapp2.1\Paysheet.Business.pdb

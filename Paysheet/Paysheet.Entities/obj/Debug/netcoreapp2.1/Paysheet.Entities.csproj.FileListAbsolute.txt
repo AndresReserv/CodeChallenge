@@ -1,0 +1,9 @@
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\bin\Debug\netcoreapp2.1\Paysheet.Entities.deps.json
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\bin\Debug\netcoreapp2.1\Paysheet.Entities.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\bin\Debug\netcoreapp2.1\Paysheet.Entities.pdb
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\obj\Debug\netcoreapp2.1\Paysheet.Entities.csprojAssemblyReference.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\obj\Debug\netcoreapp2.1\Paysheet.Entities.csproj.CoreCompileInputs.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\obj\Debug\netcoreapp2.1\Paysheet.Entities.AssemblyInfoInputs.cache
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\obj\Debug\netcoreapp2.1\Paysheet.Entities.AssemblyInfo.cs
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\obj\Debug\netcoreapp2.1\Paysheet.Entities.dll
+C:\Reserv\CodeChallenge\Paysheet\Paysheet.Entities\obj\Debug\netcoreapp2.1\Paysheet.Entities.pdb
